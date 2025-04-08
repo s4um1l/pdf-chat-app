@@ -1,6 +1,6 @@
 # RAG Features Demo
 
-Welcome to the RAG (Retrieval-Augmented Generation) Features Demo! This app demonstrates several key RAG capabilities:
+This app demonstrates several key RAG capabilities:
 
 ## Features
 

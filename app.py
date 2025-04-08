@@ -76,7 +76,7 @@ async def on_chat_start():
     # Send welcome messages
     welcome_msg = """# Welcome to Enhanced RAG Demo
     
-Upload a text (.txt) or PDF (.pdf) file to get started with Retrieval-Augmented Generation.
+Upload a text (.txt) or PDF (.pdf) file to get started with Retrieval-Augmented Generation. Attach a file and type upload to upload a file.
 
 This app demonstrates several key RAG features:
 - **Document Processing** with different chunking strategies
