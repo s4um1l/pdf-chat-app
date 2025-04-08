@@ -12,3 +12,6 @@ wheels/
 .env
 
 .chainlit/translations
+
+
+./data
