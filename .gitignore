@@ -1,15 +1,47 @@
-# Python-generated files
+# Binary files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Python
 __pycache__/
-*.py[oc]
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
 build/
+develop-eggs/
 dist/
-wheels/
-*.egg-info
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
 
 # Virtual environments
-.venv
-
 .env
+.venv
+venv/
+ENV/
+.files/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+.DS_Store
 
 .chainlit/translations
 
